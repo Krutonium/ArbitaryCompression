@@ -7,7 +7,7 @@ using System.Security.Cryptography;
 using System.IO;
 using System.IO.Compression;
 namespace HashCompressor
-{
+{//GPL3
     class Program
     {
         static void Main(string[] args)
